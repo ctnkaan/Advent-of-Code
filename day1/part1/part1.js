@@ -10,7 +10,6 @@ const rl = readline.createInterface({
 let answer = 0;
 
 
-
 rl.on('line', (line) => {
     console.log(`Line: ${line}`);
 
